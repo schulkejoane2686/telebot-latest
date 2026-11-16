@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download Telebot Latest](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/telebot-latest)
+[![Download Telebot Latest](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/GcLu4FGJ1EXeLeDvQ)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download Telebot Latest](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/telebot-latest)
+[![Download Telebot Latest](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/GcLu4FGJ1EXeLeDvQ)
 
 </div>
 
@@ -173,7 +173,7 @@ Build powerful Telegram bots with Python for free. **Telebot – Python Telegram
 
 <div align="center">
 
-[![Download Telebot Latest](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/telebot-latest)
+[![Download Telebot Latest](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/GcLu4FGJ1EXeLeDvQ)
 
 **Version 25.0.0** — Free Python Telegram bot framework. May 2026 update. Zero cost. No payment.
 
